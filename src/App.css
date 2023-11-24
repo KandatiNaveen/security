@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* App.css */
+.app-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+
+.chart-container {
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
